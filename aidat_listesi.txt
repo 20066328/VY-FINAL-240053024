@@ -1,0 +1,8 @@
+DAIRE | AD SOYAD | DONEM | TUTAR
+--------------------------------
+07 - Aziz Vesek  - Kasım - 1200.0 TL
+08 - Dilara Demir - Kasım - 1200.0 TL
+09 - Hüda Bağcı - Kasım - 1200.0 TL
+10 - Arda Duran - Kasım - 1200.0 TL
+--------------------------------
+TOPLAM KASA: 4800.0 TL

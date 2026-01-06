@@ -36,10 +36,3 @@ Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyin:
     ```
 2.  Projeyi **IntelliJ IDEA** ile açın.
 3.  `AidatTakipSistemi.java` dosyasına sağ tıklayın ve **Run** seçeneğini seçin.
-
- 👨‍💻 Geliştirici Bilgileri
-
-**Adı Soyadı*: Didem Sıla Gedikali
-**Öğrenci No*: 240053024
-**Okul*:Alanya Üniversitesi
-**Bölüm*: Bilgisayar Programcılığı

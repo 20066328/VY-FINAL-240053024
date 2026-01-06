@@ -39,6 +39,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
  👨‍💻 Geliştirici Bilgileri
 
-**Adı Soyadı: Didem Sıla Gedikali
-**Öğrenci No: 240053024
-**Okul:Alanya ÜniversitesiBölüm: Bilgisayar Programcılığı
+**Adı Soyadı*: Didem Sıla Gedikali
+**Öğrenci No*: 240053024
+**Okul*:Alanya Üniversitesi
+**Bölüm*: Bilgisayar Programcılığı
